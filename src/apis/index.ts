@@ -1,1 +1,1 @@
-export * from './ixayaApi'
+export * from './ixayaAPI'
